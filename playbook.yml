@@ -1,4 +1,4 @@
-- hosts: reachable
+- hosts: all
   serial:
     - 1
     - "50%"
